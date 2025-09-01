@@ -52,10 +52,6 @@ I'm Tanmay, a passionate developer with a keen interest in machine learning and 
 ### 📫 Let's Connect!
 Feel free to reach out to me to discuss collaborations, projects, or just to geek out about ML and AI! 
 
-#### Connect with me:
-- LinkedIn: [Tanmay IITDSAI](https://www.linkedin.com/in/tanmay-iitdsai)
-- Email: [tanmay.iitdsai@gmail.com]
-
 #### Some Badges to Showcase My Skills:
 [![Python](https://img.shields.io/badge/Python-Advanced-blue)](https://www.python.org/)
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Advanced-brightgreen)](#)
