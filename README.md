@@ -13,10 +13,6 @@
 - 🚀 Space Tech Intern'25 @India Space Lab
 - 🎓 Shortlisted Candidate for Theory CS Winter School 2024 @IISc Bengaluru (Sponsored by Walmart & CSA, IISc)
 
-### 👨🏻‍💻 Skills & Expertise:
-- Python
-- Jupyter
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```javascript
 const tanmay = {
     pronouns: "He" | "Him",
