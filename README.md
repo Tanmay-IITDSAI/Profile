@@ -20,10 +20,10 @@ const tanmay = {
     interests: ["Machine Learning", "Artificial Intelligence", "Data Science"],
     askMeAbout: ["ML/AI projects", "Python coding", "Deep learning models"],
     skills: {
-        machineLearning: "Intermediate to Advanced",
-        dataAnalytics: "Advanced",
-        Batural Language Processing: "Intermediate to Advanced",
-        Open CV: "Intermediate",
+        MachineLearning: "Intermediate to Advanced",
+        DataAnalytics: "Advanced",
+        NLP: "Intermediate to Advanced",
+        OpenCV: "Intermediate",
         LATEX: For Research Purpose
 
     currentFocus: "Exploring NLP techniques and developing advanced ML models",
