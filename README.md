@@ -5,6 +5,17 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🚀 Quick Overview:
+- 🔭 Final Year @IIT, Researcher, Data Science & Artificial Intelligence, IIT Roorkee & IIT Bhilai
+- 🌱 Data Science and Artificial Intelligence Enthusiast
+- 💼 Business Analyst Intern'23 @Finlatics
+- 📈 Quantitative Research Consultant'25 @WorldQuant LLC
+- 🚀 Space Tech Intern'25 @India Space Lab
+- 🎓 Shortlisted Candidate for Theory CS Winter School 2024 @IISc Bengaluru (Sponsored by Walmart & CSA, IISc)
+
+### 👨🏻‍💻 Skills & Expertise:
+- Python
+- Jupyter
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ```javascript
 const tanmay = {
@@ -13,12 +24,12 @@ const tanmay = {
     interests: ["Machine Learning", "Artificial Intelligence", "Data Science"],
     askMeAbout: ["ML/AI projects", "Python coding", "Deep learning models"],
     skills: {
-        machineLearning: "Advanced",
+        machineLearning: "Intermediate to Advanced",
         dataAnalytics: "Advanced",
-        nlp: "Intermediate to Advanced",
-        opencv: "Intermediate",
-        latex: "Intermediate"
-    },
+        Batural Language Processing: "Intermediate to Advanced",
+        Open CV: "Intermediate",
+        LATEX: For Research Purpose
+
     currentFocus: "Exploring NLP techniques and developing advanced ML models",
     funFact: "Not all algorithms are born equal; some are more equal than others!"
 };
@@ -32,12 +43,6 @@ I'm Tanmay, a passionate developer with a keen interest in machine learning and 
 ### 📊 GitHub Stats:
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmay-IITDSAI)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-IITDSAI)
-
-### 🔥 Top Projects:
-#### 1. [MLProject](https://github.com/Tanmay-IITDSAI/MLProject)
-    - Project focusing on text-to-text machine translation using Reinforcement Learning techniques.	
-#### 2. [AIML-Lab](https://github.com/Tanmay-IITDSAI/AIML-Lab)
-    - Repository showcasing practical solutions in the fields of AI and ML.
 
 ### 🚀 My Development Journey:
 - 44 commits exemplify my commitment to coding and project development.
