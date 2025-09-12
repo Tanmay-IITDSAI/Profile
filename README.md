@@ -12,6 +12,7 @@
 - 📈 Quantitative Research Consultant'25 @WorldQuant LLC
 - 🚀 Space Tech Intern'25 @India Space Lab
 - 🎓 Shortlisted Candidate for Theory CS Winter School 2024 @IISc Bengaluru (Sponsored by Walmart & CSA, IISc)
+- 📈 Participated in OpenAI Open Model Hackathon on 11 Sept 2025. 
 
 ```javascript
 const tanmay = {
@@ -61,14 +62,5 @@ Feel free to reach out to me to discuss collaborations, projects, or just to gee
 
 ### Overall Activity, Skill Set, and Interests
 - Tanmay-IITDSAI seems to be a user with a keen interest in machine learning and artificial intelligence, as indicated by the use of Jupyter Notebook, Python, and relevant repository topics in their projects.
-
-In conclusion, Tanmay-IITDSAI's GitHub activity reflects a focused interest in machine learning, with a clear emphasis on Python and Jupyter Notebook for project development. Their consistent coding habits and dedicated project work highlight a potential for growth and further contributions to the GitHub community. You can find more about Tanmay-IITDSAI on their [GitHub Profile](https://github.com/Tanmay-IITDSAI) and explore their projects like [AIML-Lab](https://github.com/Tanmay-IITDSAI/AIML-Lab) and [MLProject](https://github.com/Tanmay-IITDSAI/MLProject).
-
----
-
-### Wrapping Up
-Thank you for stopping by my GitHub! I'm eager to continue exploring the realms of machine learning and AI, pushing boundaries, and creating innovative solutions. Drop me a message, and let's embark on this coding adventure together! 🌟
-
----
 
 ###### Tags: #DataScience #MachineLearning #AIML #Python #GitHubProfile #Mentor #Researcher
